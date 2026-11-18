@@ -22,6 +22,7 @@ This repository contains the governance documents and guidelines for Rust Indone
 |---|---|
 | [Community Charter](COMMUNITY_CHARTER.md) | Our vision, mission, principles, and community identity. |
 | [Governance](GOVERNANCE.md) | Our organizational structure and decision-making processes. |
+| [Contributing](CONTRIBUTING.md) | How to contribute to Rust Indonesia and this repository. |
 
 Additional community policies and guidelines will be published here as the community develops.
 
@@ -36,6 +37,18 @@ You can contribute by:
 - Organizing or attending meetups and workshops.
 - Contributing to open-source projects.
 - Helping build the Rust ecosystem in Indonesia.
+
+## Contributing
+
+We welcome contributions from everyone interested in supporting Rust Indonesia.
+
+To contribute to this repository:
+
+- Open an issue to report a problem or suggest an improvement.
+- Submit a pull request to propose documentation changes.
+- Review existing discussions and contribute constructively.
+
+Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting changes.
 
 ## Independence
 
